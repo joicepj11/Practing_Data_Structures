@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Practing_Data_structures_and__main" target="1.8" />
+      <module name="Practing_Data_structures_and__test" target="1.8" />
+      <module name="Practing_Data_structures_and_Al_main" target="1.8" />
+      <module name="Practing_Data_structures_and_Al_test" target="1.8" />
+      <module name="Practing_Data_structures_and_Algorith_main" target="1.8" />
+      <module name="Practing_Data_structures_and_Algorith_test" target="1.8" />
+      <module name="Practing_Data_structures_main" target="1.8" />
+      <module name="Practing_Data_structures_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
